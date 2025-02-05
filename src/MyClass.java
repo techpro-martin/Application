@@ -22,5 +22,8 @@ public class MyClass {
     //Birazcik degisiklik olsun T4
     public String string8 = "Birazcik degisiklik iyidir.";
 
+    //Biraz daha degisiklik yapalim T5
+    public String string9 = "Superiz";
+
 
 }

@@ -12,4 +12,9 @@ public class MyClass {
 
     //Techpro Branch: T2
     public String string5 = "Bu da techpro branchinde olusturulmus bir stringdir.";
+
+    //V4
+    public String string6 = "Biraz daha farkli bir string";
+
+
 }

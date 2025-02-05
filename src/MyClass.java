@@ -6,4 +6,7 @@ public class MyClass {
 
     //V3
     public String string3 = "Bu da cok daha baska bir string.";
+
+    //Techpro Branch: T1
+    public String string4 = "Bu techpro branchinde olusturulmus bir stringdir.";
 }

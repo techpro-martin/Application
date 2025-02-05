@@ -16,5 +16,14 @@ public class MyClass {
     //V4
     public String string6 = "Biraz daha farkli bir string";
 
+    //Techpro Branch: T3
+    public String string7 = "Bu biraz degisik bir string.";
+
+    //Birazcik degisiklik olsun T4
+    public String string8 = "Birazcik degisiklik iyidir.";
+
+    //Biraz daha degisiklik yapalim T5
+    public String string9 = "Superiz";
+
 
 }

@@ -25,5 +25,6 @@ public class MyClass {
     //Biraz daha degisiklik yapalim T5
     public String string9 = "Superiz";
 
-
+    //Burada bir conflict olacak
+    public Integer integer1 = 2000;
 }

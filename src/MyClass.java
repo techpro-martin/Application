@@ -35,4 +35,7 @@ public class MyClass {
     //Satir 34mus burasi
 
     public String string10 = "bu bir string mi acaba";
+
+    //Changes
+    public String string11 = "Degisiklikler";
 }

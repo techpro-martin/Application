@@ -27,4 +27,6 @@ public class MyClass {
 
     //Biraz daha bilgi
     public String string10 = "2000 yil sonra";
+    //Burada bir conflict olacak
+    public Integer integer1 = 2000;
 }

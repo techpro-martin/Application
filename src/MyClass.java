@@ -27,4 +27,9 @@ public class MyClass {
 
     //Burada bir conflict olacak
     public Integer integer1 = 2000;
+
+
+
+
+    //Satir 34mus burasi
 }

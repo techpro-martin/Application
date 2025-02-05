@@ -19,5 +19,8 @@ public class MyClass {
     //Techpro Branch: T3
     public String string7 = "Bu biraz degisik bir string.";
 
+    //Birazcik degisiklik olsun T4
+    public String string8 = "Birazcik degisiklik iyidir.";
+
 
 }

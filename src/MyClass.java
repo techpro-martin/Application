@@ -25,11 +25,14 @@ public class MyClass {
     //Biraz daha degisiklik yapalim T5
     public String string9 = "Superiz";
 
-    //Biraz daha bilgi
-    public String string10 = "2000 yil sonra";
-
     //Burada bir conflict olacak
     public Integer integer1 = 2000;
 
     //Satir 34 conflict olacak
+
+
+
+    //Satir 34mus burasi
+
+    public String string10 = "bu bir string mi acaba";
 }

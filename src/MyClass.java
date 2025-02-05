@@ -25,5 +25,6 @@ public class MyClass {
     //Biraz daha degisiklik yapalim T5
     public String string9 = "Superiz";
 
-
+    //Biraz daha bilgi
+    public String string10 = "2000 yil sonra";
 }

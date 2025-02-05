@@ -9,4 +9,7 @@ public class MyClass {
 
     //Techpro Branch: T1
     public String string4 = "Bu techpro branchinde olusturulmus bir stringdir.";
+
+    //Techpro Branch: T2
+    public String string5 = "Bu da techpro branchinde olusturulmus bir stringdir.";
 }
